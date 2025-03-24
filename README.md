@@ -1,3 +1,6 @@
+NAME:MAADEASH K
+REG.NO:212223060141
+
 # Seven-Segment Display Driver using Verilog HDL
 
 ## Aim  
@@ -68,7 +71,9 @@ endmodule
 ```
 ## Simulated Output
 
-_____ Keep Simulated output ___________
+![7 segment display](https://github.com/user-attachments/assets/74f4fa80-4cd0-44cd-9742-bf3c4493e1b5)
+
+
 
 
 ## Testbench for Seven-Segment Display
